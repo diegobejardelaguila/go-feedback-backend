@@ -3,7 +3,7 @@ package ports
 import (
 	"context"
 
-	"github.com/yourusername/go-feedback-backend/internal/core/domain"
+	"github.com/diegobejardelaguila/go-feedback-backend/internal/core/domain"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 

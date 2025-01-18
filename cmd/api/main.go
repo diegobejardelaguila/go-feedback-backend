@@ -17,10 +17,10 @@ import (
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 
-	"github.com/yourusername/go-feedback-backend/internal/adapters/db"
-	"github.com/yourusername/go-feedback-backend/internal/adapters/handlers"
-	"github.com/yourusername/go-feedback-backend/internal/core/services"
-	"github.com/yourusername/go-feedback-backend/internal/ports"
+	"github.com/diegobejardelaguila/go-feedback-backend/internal/adapters/db"
+	"github.com/diegobejardelaguila/go-feedback-backend/internal/adapters/handlers"
+	"github.com/diegobejardelaguila/go-feedback-backend/internal/core/services"
+	"github.com/diegobejardelaguila/go-feedback-backend/internal/ports"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package services
 import (
 	"context"
 
-	"github.com/yourusername/go-feedback-backend/internal/ports"
+	"github.com/diegobejardelaguila/go-feedback-backend/internal/ports"
 )
 
 type analyticsService struct {

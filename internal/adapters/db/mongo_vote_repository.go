@@ -3,8 +3,8 @@ package db
 import (
 	"context"
 
-	"github.com/yourusername/go-feedback-backend/internal/core/domain"
-	"github.com/yourusername/go-feedback-backend/internal/ports"
+	"github.com/diegobejardelaguila/go-feedback-backend/internal/core/domain"
+	"github.com/diegobejardelaguila/go-feedback-backend/internal/ports"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"

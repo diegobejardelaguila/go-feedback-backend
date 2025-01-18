@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/yourusername/go-feedback-backend/internal/core/domain"
-	"github.com/yourusername/go-feedback-backend/internal/ports"
+	"github.com/diegobejardelaguila/go-feedback-backend/internal/core/domain"
+	"github.com/diegobejardelaguila/go-feedback-backend/internal/ports"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
